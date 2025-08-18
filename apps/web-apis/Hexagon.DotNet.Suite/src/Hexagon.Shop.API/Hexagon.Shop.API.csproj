@@ -14,4 +14,9 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Hexagon.Shop.Application\Hexagon.Shop.Application.csproj" />
+    <ProjectReference Include="..\Hexagon.Shop.Infrastructure\Hexagon.Shop.Infrastructure.csproj" />
+  </ItemGroup>
+
 </Project>
