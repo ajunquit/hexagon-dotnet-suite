@@ -1,0 +1,4 @@
+[submodule "apps/web-sites/hexagon-shop-angular"]
+	path = apps/web-sites/hexagon-shop-angular
+	url = https://github.com/ajunquit/hexagon-shop-angular.git
+	branch = main
