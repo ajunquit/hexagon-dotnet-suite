@@ -1,7 +1,7 @@
 ﻿using Hexagon.Shop.Infrastructure.Persistence.Configurations;
 using Microsoft.EntityFrameworkCore;
 
-namespace Hexagon.Shop.Infrastructure.Persistence.Contexts
+namespace Hexagon.Shop.Infrastructure.Persistence.Contexts.Extensions
 {
     public static class ModelBuilderExtensions
     {

@@ -1,5 +1,5 @@
 ﻿using Hexagon.Shop.Domain.Common.Interfaces;
-using Hexagon.Shop.Infrastructure.Persistence.Contexts;
+using Hexagon.Shop.Infrastructure.Persistence.Contexts.App;
 using Microsoft.EntityFrameworkCore;
 
 namespace Hexagon.Shop.Infrastructure.Repositories

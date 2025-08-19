@@ -2,7 +2,7 @@
 using Hexagon.Shop.Domain.Orders.Entity;
 using Microsoft.EntityFrameworkCore;
 
-namespace Hexagon.Shop.Infrastructure.Persistence.Contexts
+namespace Hexagon.Shop.Infrastructure.Persistence.Contexts.App
 {
     public class AppDbContext : DbContext, IAppDbContext
     {
