@@ -24,4 +24,8 @@
     <ProjectReference Include="..\Hexagon.Shop.Infrastructure\Hexagon.Shop.Infrastructure.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Auth\Controllers\" />
+  </ItemGroup>
+
 </Project>

@@ -3,7 +3,7 @@ using Hexagon.Shop.Application.Customer.Services;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
-namespace Hexagon.Shop.API.Controllers
+namespace Hexagon.Shop.API.Customers.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
