@@ -1,4 +1,4 @@
-﻿namespace Auth.Service.Infrastructure.Contexts
+﻿namespace Hexagon.Shop.Infrastructure.Contexts
 {
     public interface IAuthDbContext
     {

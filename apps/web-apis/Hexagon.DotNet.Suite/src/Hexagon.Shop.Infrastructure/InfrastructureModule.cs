@@ -1,4 +1,4 @@
-﻿using Auth.Service.Infrastructure.Contexts;
+﻿using Hexagon.Shop.Infrastructure.Contexts;
 using Hexagon.Shop.Domain.Common.Interfaces;
 using Hexagon.Shop.Domain.Customers.Interfaces;
 using Hexagon.Shop.Domain.Orders.Interfaces;

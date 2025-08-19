@@ -1,4 +1,4 @@
-﻿using Auth.Service.Infrastructure.Contexts;
+﻿using Hexagon.Shop.Infrastructure.Contexts;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
