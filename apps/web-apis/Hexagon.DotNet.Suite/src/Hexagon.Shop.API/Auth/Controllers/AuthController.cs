@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace Hexagon.Shop.API.Controllers
 {
     [ApiController]
-    [Route("api/v1/[controller]")]
+    [Route("api/[controller]")]
     public class AuthController : ControllerBase
     {
         private readonly ILoginQueryHandler _loginQueryHandler;
